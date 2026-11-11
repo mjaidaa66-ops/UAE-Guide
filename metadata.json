@@ -1,0 +1,6 @@
+{
+  "name": "UAE Pay Guide",
+  "description": "دليل ذكي وشامل لجميع بوابات الدفع الرسمية في دولة الإمارات مع حاسبة غرامات وأداة تقسيم فواتير",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

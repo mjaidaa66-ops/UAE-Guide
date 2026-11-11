@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">UAE Pay Guide</string>
+    <string name="app_subtitle">دليلك الشامل للبوابات الرسمية في الإمارات</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_fines_calc">حاسبة الغرامات</string>
+    <string name="nav_split_bill">تقسيم الفاتورة</string>
+    <string name="nav_about">حول التطبيق</string>
+    
+    <!-- Disclaimer -->
+    <string name="disclaimer_banner">هذا التطبيق لا يجمع المدفوعات، ويقدم فقط إرشادات للانتقال إلى البوابات الرسمية.</string>
+    <string name="disclaimer_title">إخلاء مسؤولية رسمي</string>
+    <string name="disclaimer_desc">تطبيق UAE Pay Guide هو دليل إرشادي مستقل وغير مرتبط بأي جهة حكومية أو خاصة. كافة المعاملات والمدفوعات تتم حصرياً على المواقع والمنصات الرسمية للجهات المعنية.</string>
+    
+    <!-- Categories -->
+    <string name="cat_all">الكل</string>
+    <string name="cat_traffic">مرور</string>
+    <string name="cat_utilities">كهرباء ومياه</string>
+    <string name="cat_telecom">اتصالات</string>
+    <string name="cat_government">حكومي</string>
+    <string name="cat_transport">مواصلات</string>
+    <string name="cat_education">تعليم</string>
+    <string name="cat_health">صحة</string>
+    <string name="cat_municipality">بلدية</string>
+
+    <!-- General Actions -->
+    <string name="open_portal">فتح البوابة الرسمية</string>
+    <string name="official_badge">رسمي</string>
+    <string name="cancel">إلغاء</string>
+    <string name="next">التالي</string>
+    <string name="skip">تخطي</string>
+    <string name="start_now">ابدأ الآن</string>
+</resources>
